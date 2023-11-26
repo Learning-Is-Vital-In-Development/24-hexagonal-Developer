@@ -16,8 +16,8 @@
 7. [7장 테스트](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch07/README.md)
 8. [8장 아키텍처·패턴](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch08/README.md)
 9. [9장 업무 관리](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch09/README.md)
-10.[10장 정리하고 공유하기](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch10/README.md)
-11.[11장 리더와 팔로워](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch11/README.md)
+10. [10장 정리하고 공유하기](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch10/README.md)
+11. [11장 리더와 팔로워](https://github.com/Learning-Is-Vital-In-Development/24-hexagonal-Developer/blob/main/ch11/README.md)
 
 ## 진행방식
 
